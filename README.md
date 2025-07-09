@@ -24,21 +24,6 @@
 **Database:**  
 ![Database Design](https://img.shields.io/badge/-Database_Design-4479A1?logo=postgresql&logoColor=white)
 
-## 🚀 Featured Projects
-
-### 🎓 Dirassa+
-Educational platform alternative to Massar (Django, React)
-- Multi-role authentication system (Student/Teacher/Admin)
-- Grade management with PDF report generation
-- Modern UI/UX design
-- Database modeling and architecture
-
-### 🔍 VirusWare
-Innovative malware detection platform (Python, JavaScript)
-- File analysis for malware detection
-- Real-time results display
-- Analysis history management
-- Responsive frontend with Tailwind CSS
 
 ## 🏆 Skills Highlights
 - Full Stack Web Development
