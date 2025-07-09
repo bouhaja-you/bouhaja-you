@@ -1,18 +1,45 @@
-# 👋 Hello, I'm Youssef Bouhaja
+# 💻 Youssef Bouhaja | Full Stack Developer
 
-🎓 1st-year Software Engineering Student @ENSA Khénifra  
-💻 Full Stack Developer | React.js • Django • Node.js  
-🚀 Passionate about building modern web apps and learning new technologies  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/youssef-bouhaja)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-...
+🎓 Software Engineering Student @ ENSA Khénifra  
+🚀 Passionate about building innovative web solutions with modern technologies
 
-## 📈 GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhaja-you&show_icons=true&theme=tokyonight)
+## 🔧 Tech Stack
 
-## 🌍 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/...) • [Portfolio](https://...)
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
+**Backend:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django_REST-ff1709?logo=django&logoColor=white)
+
+## � Featured Projects
+
+### 🎓 Dirassa+
+Educational platform alternative to Massar (Django, React)
+- Multi-role authentication system (Student/Teacher/Admin)
+- Grade management with PDF report generation
+- Modern UI/UX design
+
+### 🔍 VirusWare
+Malware detection platform
+- File analysis for malware detection
+- Real-time results display
+- Analysis history management
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhaja-you&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouhaja-you&layout=compact&theme=tokyonight)
+
+## 📫 Let's Connect
+- LinkedIn: [youssef-bouhaja](https://www.linkedin.com/in/youssef-bouhaja)
+- Email: your-email@example.com
