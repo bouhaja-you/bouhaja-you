@@ -27,5 +27,5 @@
 
 
 ## Contact
-- LinkedIn: [youssef-bouhaja](https://www.linkedin.com/in/youssef-bouhaja)
-- Email: your-email@example.com
+- LinkedIn: [youssef-bouhaja]([https://www.linkedin.com/in/youssef-bouhaja](https://www.linkedin.com/in/youssef-bouhaja-09a894319/))
+- Email: youssef.bouhaja@uit.ac.ma
