@@ -25,12 +25,6 @@
 ![Database Design](https://img.shields.io/badge/-Database_Design-4479A1?logo=postgresql&logoColor=white)
 
 
-## 🏆 Skills Highlights
-- Full Stack Web Development
-- Database Modeling & Architecture
-- REST API Development
-- Frontend Development (React, jQuery)
-- Team Leadership & Collaboration
 
 ## 📫 Let's Connect
 - LinkedIn: [youssef-bouhaja](https://www.linkedin.com/in/youssef-bouhaja)
