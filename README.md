@@ -6,7 +6,7 @@
 🎓 Software Engineering Student @ ENSA Khénifra  
 🚀 Passionate about building innovative web solutions with modern technologies
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -26,6 +26,6 @@
 
 
 
-## 📞 Contact
+## Contact
 - LinkedIn: [youssef-bouhaja](https://www.linkedin.com/in/youssef-bouhaja)
 - Email: your-email@example.com
